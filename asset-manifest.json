@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reunion.github.io/static/css/main.aa5b2878.css",
+    "main.js": "/reunion.github.io/static/js/main.31cacd01.js",
+    "static/js/787.e8faaedf.chunk.js": "/reunion.github.io/static/js/787.e8faaedf.chunk.js",
+    "static/media/image.jpg": "/reunion.github.io/static/media/image.486b6132f6be5cb64a88.jpg",
+    "static/media/logo.svg": "/reunion.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reunion.github.io/index.html",
+    "main.aa5b2878.css.map": "/reunion.github.io/static/css/main.aa5b2878.css.map",
+    "main.31cacd01.js.map": "/reunion.github.io/static/js/main.31cacd01.js.map",
+    "787.e8faaedf.chunk.js.map": "/reunion.github.io/static/js/787.e8faaedf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa5b2878.css",
+    "static/js/main.31cacd01.js"
+  ]
+}
